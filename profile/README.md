@@ -1,12 +1,4 @@
-## Hi there 👋
+# Funciones De La STLCC
+Formulación de políticas públicas, estrategias y buenas prácticas en materia de transparencia, anticorrupción, control interno buen gobierno, modernización, compras y contrataciones del Estado; debiendo coordinar su implementación y monitoreo.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Las funciones de la STLCC se rigen bajo su Reglamento de Organización Interna aprobado bajo Acuerdo STLCC No. 002-SG-2022 publicado en el Diario Oficial de la República de Honduras “La Gaceta” en fecha 19 de enero de 2023.
